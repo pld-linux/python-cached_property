@@ -9,7 +9,7 @@
 Summary:	A cached-property for decorating methods in Python classes
 Name:		python-%{module}
 Version:	1.3.0
-Release:	7
+Release:	8
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://github.com/pydanny/cached-property/archive/34b1caf8/cached-property-%{version}.tar.gz
